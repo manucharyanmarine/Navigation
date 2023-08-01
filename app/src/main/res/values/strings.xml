@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="nested_page">NESTED PAGE</string>
+    <string name="close_app">CLOSE APP</string>
+</resources>
