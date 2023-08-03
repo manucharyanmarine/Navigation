@@ -5,4 +5,8 @@
     <string name="settings">SETTINGS</string>
     <string name="nested_page">NESTED PAGE</string>
     <string name="close_app">CLOSE APP</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="question">Are you sure you want to close the app?</string>
+    <string name="icon">Icon</string>
 </resources>
